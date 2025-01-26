@@ -1,4 +1,5 @@
-# DIO-Bootcamp-Podcast
+# DIO-Bootcamp-Podcast![Podcast imagem Leonard IA](https://github.com/user-attachments/assets/e20cc0c2-0876-47ad-86fb-6e4c93794a91)
+
 📒 Descrição
 Este podcast de 2 minutos oferece um passeio rápido, sobre inovação para desenvolvimento de líderes.
 
